@@ -72,8 +72,7 @@
             <i class="lni lni-chevron-up"></i>
         </a>
 
-        <!--====== js ======-->
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/js/main.js"></script>
+        <!-- JS -->
+        <?php wp_footer(); ?>
     </body>
 </html>
